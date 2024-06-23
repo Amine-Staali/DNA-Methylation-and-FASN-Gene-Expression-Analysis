@@ -1,4 +1,6 @@
 # DNA Methylation and FASN Gene Expression Analysis
+
+## Project overview
 This project focuses on analyzing the evolution of DNA methylation and the expression of the FASN gene. It aims to identify patterns and trends, compare findings with similar studies, propose potential biological mechanisms, and suggest implications for human health, particularly concerning metabolic diseases.
 
 ## Objectives
